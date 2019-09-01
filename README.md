@@ -28,10 +28,10 @@ k-NN알고리즘을 사용하기 위해서는, 무엇보다 명확한 데이터�
 
 In chapter 1, I trained it to classify iris.
 
-To do Supervised-Learning, I think I should classify the sets of datas (that already figured out) as clearly as possible.
+To do Supervised-Learning, I think I should classify the sets of datas as clearly as possible.
 
 
-* You can use Supervised-Learning when you have sample data(inputs and outputs) and want to predict the output of given input.
+* You can use Supervised-Learning when you have sample data (inputs and outputs) and want to predict the output of given input.
 
 I used k-Nearest Neighbors (k-NN)algorithm
 
