@@ -1,10 +1,10 @@
-# StudyMachineLearning
+# Study Machine Learning
 
-This repository is for studying machine learning with Python.
+This repository is about studying machine learning programed with Python.
 
 >1장-소개&첫번째 애플리케이션
 
-1장에서 가볍게 붓꽃을 구별짓는 간단한 훈련을했다
+1장에서 가볍게 붓꽃을 구별짓는 간단한 훈련을 했다
 
 지도학습을 하려면 각 데이터 들을 구분 지을수 있는 것들이 최대한 명확하게 구분되어야 할것같다(?)
 
