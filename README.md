@@ -31,9 +31,9 @@ In intro, I trained simply Classify iris
 
 I think in Supervised-Learning, I have to clearly classify the set of datas that already figured out.
 
-+add
+* add
 
-When I have input and output sample data, and predict the output by given input
+* When I have input and output sample data, and predict the output by given input
 
 I used k-Nearest Neighbors Algorithm(k-NN)
 
