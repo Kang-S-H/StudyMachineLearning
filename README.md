@@ -8,13 +8,12 @@ This repository is about studying machine learning programmed with Python.
 
 지도학습을 하려면 각 데이터들의 특징이 최대한 명확하게 구분되어야 할 것 같다.
 
-* +)
 
 * 입출력 샘플 데이터를 이미 갖고있고, 주어진 입력에 대한 출력을 예측하고자 할 때 지도학습을 사용할 수 있다.
 
 나는 k-최근접 이웃 알고리즘(k-Nearest Neighbors, 이하 k-NN)을 사용했다.
 
-객체를 생성할때 몇개의 가까운 이웃을 찾을 지 지정할 수 있다.
+객체를 생성할 때 몇 개의 가까운 이웃을 찾을 지 지정할 수 있다.
 
 ex)
 
@@ -31,7 +30,6 @@ In chapter 1, I trained it to classify iris.
 
 To do Supervised-Learning, I think I should classify the sets of datas (that already figured out) as clearly as possible.
 
-* +)
 
 * You can use Supervised-Learning when you have sample data(inputs and outputs) and want to predict the output of given input.
 
