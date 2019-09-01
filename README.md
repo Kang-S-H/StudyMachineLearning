@@ -8,9 +8,9 @@ This repository is for studying machine learning with Python.
 
 지도학습을 하려면 각 데이터 들을 구분 지을수 있는 것들이 최대한 명확하게 구분되어야 할것같다(?)
 
-+추가
+* 추가
 
-입력과 출력 샘플데이터가 있고, 주어진 입력으로 출력을 예측하고자 할때!
+* 입력과 출력 샘플데이터가 있고, 주어진 입력으로 출력을 예측하고자 할때!
 
 k-최근접 이웃 알고리즘(k-Nearest Neighbors, 이하 k-NN)을 사용했다.
 
