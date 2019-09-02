@@ -2,7 +2,7 @@
 
 This repository is about studying machine learning programmed with Python.
 
->1장-소개&첫번째 애플리케이션
+>1장 - 소개 & 첫 번째 애플리케이션
 
 1장에서는 붓꽃을 구별짓는 간단한 훈련을 했다
 
